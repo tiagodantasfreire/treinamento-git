@@ -1,2 +1,6 @@
 // Faça uma branch com o seu nome e coloque o seu nome na linha abaixo
+<<<<<<< HEAD
 Bruno Hebling
+=======
+Tiago Freire
+>>>>>>> 454f8d153f431a4789c169006df9bf0ffe119e45
