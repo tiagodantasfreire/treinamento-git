@@ -1,2 +1,7 @@
 // Faça uma branch com o seu nome e coloque o seu nome na linha abaixo
+<<<<<<< HEAD
 Rafael Sampaio de Oliveira
+=======
+Tiago Freire
+Rafael Sampaio de Oliveira
+>>>>>>> b4f96809c410d6c3e9926c719e40af3b0c38dcc3
